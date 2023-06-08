@@ -57,7 +57,7 @@
         <version>9.4.36.v20210114</version>
         <configuration>
           <webApp>
-            <contextPath>/big-number</contextPath>
+            <contextPath>/random-number-generator</contextPath>
           </webApp>
         </configuration>
       </plugin>
